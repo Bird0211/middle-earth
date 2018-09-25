@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26af57a5-eeed-4399-a22c-3b716f67a108" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="manage-web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="67" column="28" lean-forward="true" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="207" column="28" lean-forward="true" selection-start-line="207" selection-start-column="28" selection-end-line="207" selection-end-column="28" />
+              <folding>
+                <element signature="e#7956#7962#0" expanded="true" />
+                <element signature="e#11053#11059#0" expanded="true" />
+                <element signature="e#11091#11097#0" expanded="true" />
+                <element signature="e#11098#11104#0" expanded="true" />
+                <marker date="1537307788908" expanded="true" signature="11998:12104" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dropzone.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/html/dropzone.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="10" />
+              <folding>
+                <element signature="e#441#446#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xls.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manage/js/xls.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/html/filter.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="55" lean-forward="false" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+              <folding>
+                <element signature="e#1712#1718#0" expanded="true" />
+                <element signature="e#7766#7772#0" expanded="true" />
+                <element signature="e#7830#7836#0" expanded="true" />
+                <element signature="e#7881#7887#0" expanded="true" />
+                <element signature="e#7945#7951#0" expanded="true" />
+                <element signature="e#7996#8002#0" expanded="true" />
+                <element signature="e#8062#8068#0" expanded="true" />
+                <element signature="e#8069#8075#0" expanded="true" />
+                <element signature="e#8076#8082#0" expanded="true" />
+                <marker date="1536840917932" expanded="true" signature="8484:8590" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/html/order/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/js/order.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1794">
+              <caret line="310" column="11" lean-forward="false" selection-start-line="310" selection-start-column="11" selection-end-line="310" selection-end-column="11" />
+              <folding>
+                <marker date="1537396014516" expanded="true" signature="2183:2194" ph="..." />
+                <marker date="1537396014516" expanded="true" signature="2492:2503" ph="..." />
+                <marker date="1537396014516" expanded="true" signature="4315:4326" ph="..." />
+                <marker date="1537396014516" expanded="true" signature="14793:14799" ph=" " />
+                <marker date="1537396014516" expanded="true" signature="15056:15062" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.jqGrid.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage/js/jqGrid/jquery.jqGrid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137250">
+              <caret line="9151" column="35" lean-forward="false" selection-start-line="9151" selection-start-column="35" selection-end-line="9151" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../../</find>
+      <find>down</find>
+      <find>.s</find>
+      <find>total_data</find>
+      <find>consol</find>
+      <find>importf</find>
+      <find>final_data</find>
+      <find>wb</find>
+      <find>login</find>
+      <find>WOW</find>
+      <find>console</find>
+      <find>start_row</find>
+      <find>conso</find>
+      <find>format_data</find>
+      <find>xls</find>
+      <find>myDropzone</find>
+      <find>fallback</find>
+      <find>toastr</find>
+      <find>dropz</find>
+      <find>.js</find>
+      <find>order</find>
+      <find>addRowData</find>
+      <find>FormToGrid</find>
+      <find>navGrid</find>
+      <find>pager_selector</find>
+      <find>jquery-ui.min.js</find>
+      <find>manage</find>
+      <find>spinner</find>
+      <find>grid_selector</find>
+      <find>Autocomplete</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>../</replace>
+      <replace>$wallet_base_path</replace>
+      <replace>description</replace>
+      <replace>toastr.warning</replace>
+      <replace>../../../../</replace>
+      <replace>../../manage-web/</replace>
+      <replace>../../../</replace>
+      <replace>/manage-web/</replace>
+      <replace>../../manage-web/admin/</replace>
+      <replace />
+      <replace>../manage/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\workspace\manager-center\manage-web\admin\html</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/manage</dir>
+      <dir>$PROJECT_DIR$/../manage-web</dir>
+      <dir>$PROJECT_DIR$/..</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/dict.js" />
+        <option value="$PROJECT_DIR$/manage/message/title.html" />
+        <option value="$PROJECT_DIR$/js/title.js" />
+        <option value="$PROJECT_DIR$/js/language.js" />
+        <option value="$PROJECT_DIR$/manage/message/language.html" />
+        <option value="$PROJECT_DIR$/manage/message/jump.html" />
+        <option value="$PROJECT_DIR$/manage/message/actionType.html" />
+        <option value="$PROJECT_DIR$/admin/html/elements.html" />
+        <option value="$PROJECT_DIR$/manage/message/template.html" />
+        <option value="$PROJECT_DIR$/js/basic.js" />
+        <option value="$PROJECT_DIR$/js/template.js" />
+        <option value="$PROJECT_DIR$/manage/withdraw/alert.html" />
+        <option value="$PROJECT_DIR$/js/alert.js" />
+        <option value="$PROJECT_DIR$/js/withdraw.js" />
+        <option value="$PROJECT_DIR$/js/usermenu.js" />
+        <option value="$PROJECT_DIR$/js/manage.js" />
+        <option value="$PROJECT_DIR$/js/basic_config.js" />
+        <option value="$PROJECT_DIR$/js/basic_config_online.js" />
+        <option value="$PROJECT_DIR$/manage/charge/charge.html" />
+        <option value="$PROJECT_DIR$/js/charge.js" />
+        <option value="$PROJECT_DIR$/admin/assets/js/jqGrid/jquery.jqGrid.js" />
+        <option value="$PROJECT_DIR$/manage/charge/gift.html" />
+        <option value="$PROJECT_DIR$/js/gift.js" />
+        <option value="$PROJECT_DIR$/admin/assets/js/ace-elements.min.js" />
+        <option value="$PROJECT_DIR$/js/jump.js" />
+        <option value="$PROJECT_DIR$/js/actiontype.js" />
+        <option value="$PROJECT_DIR$/manage/message/addMessage.html" />
+        <option value="$PROJECT_DIR$/js/message.js" />
+        <option value="$PROJECT_DIR$/admin/build/files/email-convert.html" />
+        <option value="$PROJECT_DIR$/manage/admin/menu.html" />
+        <option value="$PROJECT_DIR$/js/init.js" />
+        <option value="$PROJECT_DIR$/../manage-web/manage/admin/menu.html" />
+        <option value="$PROJECT_DIR$/manage/dropzone.html" />
+        <option value="$PROJECT_DIR$/html/dropzone.html" />
+        <option value="$PROJECT_DIR$/js/xls.js" />
+        <option value="$PROJECT_DIR$/html/login.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/manage/html/dropzone.html" />
+        <option value="$PROJECT_DIR$/manage/resetpwd.html" />
+        <option value="$PROJECT_DIR$/manage/login.html" />
+        <option value="$PROJECT_DIR$/manage/js/xls.js" />
+        <option value="$PROJECT_DIR$/manage/html/filter.txt" />
+        <option value="$PROJECT_DIR$/manage/html/Order/list.html" />
+        <option value="$PROJECT_DIR$/manage/index.html" />
+        <option value="$PROJECT_DIR$/manage/index.html" />
+        <option value="$PROJECT_DIR$/manage/js/jqGrid/jquery.jqGrid.js" />
+        <option value="$PROJECT_DIR$/manage/html/order/list.html" />
+        <option value="$PROJECT_DIR$/manage/js/order.js" />
+        <option value="$PROJECT_DIR$/manage/js/order.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="middle-earth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="middle-earth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="middle-earth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="middle-earth" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/manage/css" />
+      <recent name="$PROJECT_DIR$/manage/js" />
+      <recent name="$PROJECT_DIR$/manage" />
+      <recent name="$PROJECT_DIR$/manage/html/Order" />
+      <recent name="$PROJECT_DIR$/manage/html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="D:\workspace\manager-center\manage-web\css\bootstrap" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration name="alert.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="alert.js" working-dir="$PROJECT_DIR$/js" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26af57a5-eeed-4399-a22c-3b716f67a108" name="Default" comment="" />
+      <created>1493277325934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493277325934</updated>
+      <workItem from="1493277327232" duration="9174000" />
+      <workItem from="1493716072347" duration="24699000" />
+      <workItem from="1493972980372" duration="1597000" />
+      <workItem from="1494207543961" duration="4554000" />
+      <workItem from="1494388252573" duration="54000" />
+      <workItem from="1495100143383" duration="21000" />
+      <workItem from="1495162020568" duration="17387000" />
+      <workItem from="1495416659338" duration="8642000" />
+      <workItem from="1495591369875" duration="16088000" />
+      <workItem from="1495675641030" duration="13776000" />
+      <workItem from="1495766977890" duration="22931000" />
+      <workItem from="1495796133820" duration="565000" />
+      <workItem from="1496285755160" duration="791000" />
+      <workItem from="1496737950223" duration="2956000" />
+      <workItem from="1496973166232" duration="11000" />
+      <workItem from="1497251132864" duration="3626000" />
+      <workItem from="1497338544265" duration="1513000" />
+      <workItem from="1497419106181" duration="7006000" />
+      <workItem from="1497948579221" duration="3420000" />
+      <workItem from="1497955891348" duration="6118000" />
+      <workItem from="1498703474316" duration="13993000" />
+      <workItem from="1498904165191" duration="2733000" />
+      <workItem from="1499047845402" duration="4092000" />
+      <workItem from="1499065669593" duration="53975000" />
+      <workItem from="1499653388541" duration="39000" />
+      <workItem from="1499658633564" duration="3601000" />
+      <workItem from="1500025160774" duration="255000" />
+      <workItem from="1500342547472" duration="188000" />
+      <workItem from="1500345943679" duration="29000" />
+      <workItem from="1500538875208" duration="2887000" />
+      <workItem from="1503904568198" duration="13051000" />
+      <workItem from="1504073301931" duration="13324000" />
+      <workItem from="1504487848469" duration="1296000" />
+      <workItem from="1504767233361" duration="825000" />
+      <workItem from="1504770897840" duration="1847000" />
+      <workItem from="1504865370913" duration="917000" />
+      <workItem from="1505211496725" duration="513000" />
+      <workItem from="1505212289750" duration="4127000" />
+      <workItem from="1505270701389" duration="4889000" />
+      <workItem from="1505301083435" duration="7853000" />
+      <workItem from="1505462946891" duration="973000" />
+      <workItem from="1505787805478" duration="999000" />
+      <workItem from="1505814296583" duration="742000" />
+      <workItem from="1505897043478" duration="556000" />
+      <workItem from="1506213084788" duration="1664000" />
+      <workItem from="1506325169649" duration="626000" />
+      <workItem from="1506330663129" duration="426000" />
+      <workItem from="1506505170751" duration="1421000" />
+      <workItem from="1506768730026" duration="423000" />
+      <workItem from="1507519273682" duration="1199000" />
+      <workItem from="1507715846532" duration="371000" />
+      <workItem from="1508225139820" duration="5595000" />
+      <workItem from="1508483214365" duration="297000" />
+      <workItem from="1509070722183" duration="3360000" />
+      <workItem from="1509433815584" duration="242000" />
+      <workItem from="1511930031511" duration="1267000" />
+      <workItem from="1512023441113" duration="175000" />
+      <workItem from="1512115719596" duration="250000" />
+      <workItem from="1512702240645" duration="706000" />
+      <workItem from="1536024886459" duration="7981000" />
+      <workItem from="1536055257635" duration="1688000" />
+      <workItem from="1536114320503" duration="4520000" />
+      <workItem from="1536123258854" duration="592000" />
+      <workItem from="1536227625046" duration="19583000" />
+      <workItem from="1536728658822" duration="534000" />
+      <workItem from="1536839949781" duration="12815000" />
+      <workItem from="1536907897159" duration="9910000" />
+      <workItem from="1537039555086" duration="1063000" />
+      <workItem from="1537247304877" duration="668000" />
+      <workItem from="1537268111239" duration="13610000" />
+      <workItem from="1537393553828" duration="1542000" />
+      <workItem from="1537828497405" duration="874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="371923000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19466667" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19466667" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/ace-fonts.css" />
+    <entry file="file://$PROJECT_DIR$/css/ace.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/ace-part2.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/ace-rtl.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/ace-ie.min.css" />
+    <entry file="file://$PROJECT_DIR$/js/ace-elements.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap-datetimepicker.js" />
+    <entry file="file://$PROJECT_DIR$/js/toastr/toastr.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-datetimepicker.css" />
+    <entry file="file://$PROJECT_DIR$/font/readme" />
+    <entry file="file://$PROJECT_DIR$/manage/dropzone.html" />
+    <entry file="file://$PROJECT_DIR$/js/dropzone.min.js" />
+    <entry file="file://$PROJECT_DIR$/css/dropzone.css" />
+    <entry file="file://$PROJECT_DIR$/js/basic.js" />
+    <entry file="file://$PROJECT_DIR$/js/init.js" />
+    <entry file="file://$PROJECT_DIR$/js/loading.js" />
+    <entry file="file://$PROJECT_DIR$/js/manage.js" />
+    <entry file="file://$PROJECT_DIR$/js/menu.js" />
+    <entry file="file://$PROJECT_DIR$/js/user.js" />
+    <entry file="file://$PROJECT_DIR$/js/alert.js" />
+    <entry file="file://$PROJECT_DIR$/js/usermenu.js" />
+    <entry file="file://$PROJECT_DIR$/html/dropzone.html" />
+    <entry file="file://$PROJECT_DIR$/js/xls.js" />
+    <entry file="file://$PROJECT_DIR$/img/user.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-timepicker.css" />
+    <entry file="file://$PROJECT_DIR$/html/login.html" />
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="79" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/resetpwd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="53" lean-forward="false" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+          <folding>
+            <element signature="e#1784#1790#0" expanded="false" />
+            <element signature="e#3731#3737#0" expanded="false" />
+            <element signature="e#3795#3801#0" expanded="false" />
+            <element signature="e#3846#3852#0" expanded="false" />
+            <element signature="e#3910#3916#0" expanded="false" />
+            <element signature="e#3961#3967#0" expanded="false" />
+            <element signature="e#4027#4033#0" expanded="false" />
+            <element signature="e#4034#4040#0" expanded="false" />
+            <element signature="e#4041#4047#0" expanded="false" />
+            <marker date="1536840866255" expanded="true" signature="4449:4555" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="30" lean-forward="false" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wow.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="766" lean-forward="false" selection-start-line="1" selection-start-column="766" selection-end-line="1" selection-end-column="766" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="95" column="65" lean-forward="false" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/html/filter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/html/dropzone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="e#441#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="55" lean-forward="false" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
+          <folding>
+            <element signature="e#1712#1718#0" expanded="true" />
+            <element signature="e#7766#7772#0" expanded="true" />
+            <element signature="e#7830#7836#0" expanded="true" />
+            <element signature="e#7881#7887#0" expanded="true" />
+            <element signature="e#7945#7951#0" expanded="true" />
+            <element signature="e#7996#8002#0" expanded="true" />
+            <element signature="e#8062#8068#0" expanded="true" />
+            <element signature="e#8069#8075#0" expanded="true" />
+            <element signature="e#8076#8082#0" expanded="true" />
+            <marker date="1536840917932" expanded="true" signature="8484:8590" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/js/date-time/locales/bootstrap-datepicker.ar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/css/datepicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/jquery-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/css/ui.jqgrid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/js/fuelux/data/fuelux.tree-sample-demo-data.js" />
+    <entry file="file://$PROJECT_DIR$/manage/js/fuelux/fuelux.spinner.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="3556" lean-forward="false" selection-start-line="7" selection-start-column="3556" selection-end-line="7" selection-end-column="3556" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/js/jqGrid/jquery.jqGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137250">
+          <caret line="9151" column="35" lean-forward="false" selection-start-line="9151" selection-start-column="35" selection-end-line="9151" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/js/jquery-ui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/css/jquery-ui.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/html/order/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="67" column="28" lean-forward="true" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/js/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1794">
+          <caret line="310" column="11" lean-forward="false" selection-start-line="310" selection-start-column="11" selection-end-line="310" selection-end-column="11" />
+          <folding>
+            <marker date="1537396014516" expanded="true" signature="2183:2194" ph="..." />
+            <marker date="1537396014516" expanded="true" signature="2492:2503" ph="..." />
+            <marker date="1537396014516" expanded="true" signature="4315:4326" ph="..." />
+            <marker date="1537396014516" expanded="true" signature="14793:14799" ph=" " />
+            <marker date="1537396014516" expanded="true" signature="15056:15062" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="207" column="28" lean-forward="true" selection-start-line="207" selection-start-column="28" selection-end-line="207" selection-end-column="28" />
+          <folding>
+            <element signature="e#7956#7962#0" expanded="true" />
+            <element signature="e#11053#11059#0" expanded="true" />
+            <element signature="e#11091#11097#0" expanded="true" />
+            <element signature="e#11098#11104#0" expanded="true" />
+            <marker date="1537307788908" expanded="true" signature="11998:12104" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage/js/xls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

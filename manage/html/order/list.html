@@ -1,0 +1,54 @@
+
+<title>快速下单</title>
+
+<link rel="stylesheet" href="css/jquery-ui.min.css" />
+<link rel="stylesheet" href="css/datepicker.css" />
+<link rel="stylesheet" href="css/ui.jqgrid.css" />
+<link rel="stylesheet" href="css/jquery-ui.min.css" />
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/order.js"></script>
+
+<!-- ajax layout which only needs content area -->
+<div class="page-header">
+	<h1>
+		订单
+		<small>
+			<i class="ace-icon fa fa-angle-double-right"></i>
+			快速下单
+		</small>
+	</h1>
+</div><!-- /.page-header -->
+
+<div class="row">
+	<div class="col-xs-12">
+
+		<div class="space-10"></div>
+		<div id="searchTable">
+			<table id="grid-table"></table>
+			<div id="grid-pager"></div>
+		</div>
+
+
+		<!-- 模态框（Modal） -->
+		<div class="modal fade bs-example-modal-sm" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+							&times;
+						</button>
+						<h4 class="modal-title" id="myModalLabel">
+						</h4>
+					</div>
+					<div class="modal-body">
+					</div>
+					<div class="modal-footer">
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal -->
+		</div>
+
+		<!-- PAGE CONTENT ENDS -->
+	</div><!-- /.col -->
+</div><!-- /.row -->
+

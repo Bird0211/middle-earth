@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //for-mobile-apps -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- js -->
+<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<!-- //js -->
+<!--animate-->
+<link href="css/animate.css" rel="stylesheet" type="text/css" media="all">
+<script src="js/wow.min.js"></script>
+	<script>
+		 new WOW().init();
+	</script>
+<!--//end-animate-->
+<link href='http://fonts.useso.com/css?family=Viga' rel='stylesheet' type='text/css'>
+<link href='http://fonts.useso.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<script src="js/responsiveslides.min.js"></script>
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- start-smoth-scrolling -->
+
+</head>
+<body>
+<!--header-->
+<!-- header -->
+	<div class="header wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.3s">
+		<div class="container">
+			<div class="logo">
+				<h1>
+					<a href="index.html">
+						<i><img src="images/Mee_logo.png" alt="" /></i>
+						<!--Mega Power<span>A Best Industry</span>-->
+					</a>
+				</h1>
+			</div>
+			<div class="header-left">
+				<nav class="navbar navbar-default">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					  </button>
+					</div>
+
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+						<!--
+						<div class="header-right search">
+							<form action="#" method="post">
+								<input type="search" name="Search" value="Search" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Search';}" required="">
+								<input type="submit" value=" ">
+							</form>
+						</div>
+						-->
+						<nav class="link-effect-9" id="link-effect-9">
+							<ul class="nav navbar-nav">
+								<li class="active"><a class="hvr-bounce-to-bottom" href="index.html">Home</a></li>
+								<!--<li><a href="services.html" class="hvr-bounce-to-bottom">Services</a></li>-->
+								<li><a href="gallery.html" class="hvr-bounce-to-bottom">Gallery</a></li>
+								<li><a href="manage/login.html" class="hvr-bounce-to-bottom">Login</a></li>
+								<li><a href="contact.html" class="hvr-bounce-to-bottom">Contact</a></li>
+							</ul>
+						</nav>
+					</div>
+					<!-- /.navbar-collapse -->
+				</nav>
+			</div>
+		</div>
+	</div>
+<!-- //header -->
+<!-- banner -->
+<div class="banner">
+	<div class="container">
+		<div class="banner-info">
+			<div class="col-md-7 banner-left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
+				<h3>Welcome To <span> Middle-earth </span> Export Limited</h3>
+				<p>We provides a whole-of-service solution.</p>
+				<a class="hvr-outline-out scroll" href="#about">See More About Us</a>
+			</div>
+			<!--
+			<div class="col-md-5 banner-right wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
+					<div class="ban-icon ban-col1">
+						<img src="images/assistance_telephonique.png" style="height: 74px;width: 74px" alt="technical assistance" />
+					</div>
+					<div class="ban-icon ban-col2">
+						<img src="images/strategy.png" class="bannerimg" alt="marketing consultant" />
+					</div>
+					<div class="ban-icon3">
+					<img src="images/package.png" style="height: 74px;width: 74px" alt="storage & small parcel packaging and dispatch" />
+					</div>
+				<div class="clearfix"></div>
+			</div>-->
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<!-- //banner -->
+<!-- banner-bottom -->
+<div id="about" class="banner-bottom wow bounceInUp" data-wow-duration="1s" data-wow-delay="0s">
+	<div class="container">
+		<h3>About Us</h3>
+		<p class="para1">Middle-earth Export Limited (MEE) has been an e-commercial company that being focus on exporting New Zealand's natural and pure healthy & beauty products into Asia Market for 5 years. </p>
+		<div class="col-md-4 bottom-grid multi-gd-text">
+			<a href="gallery.html"><img src="images/681536565904_.pic_hd.jpg" alt=" "/></a>
+		</div>
+		<div class="col-md-4 bottom-grid mar-pad">
+				<script>
+						// You can also use "$(window).load(function() {"
+						$(function () {
+						 // Slideshow 4
+						$("#slider3").responsiveSlides({
+							auto: true,
+							pager: true,
+							nav: false,
+							speed: 500,
+							namespace: "callbacks",
+							before: function () {
+						$('.events').append("<li>before event fired.</li>");
+						},
+						after: function () {
+							$('.events').append("<li>after event fired.</li>");
+							}
+							});
+						});
+				</script>
+			<div  id="top" class="callbacks_container">
+				<ul class="rslides" id="slider3">
+					<li>
+						<h4>Technical Assistance</h4>
+						<p>Our purpose is assisting kiwi business into a
+							fast growing Asia market by
+							the latest internet technology. </p>
+					</li>
+					<li>
+						<h4>Marketing Consultant</h4>
+						<p>We are online retailers and marketing consultant
+							of local brand owners, to help them build brand
+							awareness as well as introduce products to overseas consumers.
+						</p>
+					</li>
+					<li>
+						<h4>Storage</h4>
+						<p>Our storage inventory will certainly meet your needs ranging from small to large
+							Explore our locations to find the perfect self storage facility in Newzealand.</p>
+					</li>
+					<li>
+						<h4>Packaging and Dispatch</h4>
+						<p>We work closely with our clients as the business mainly export
+							products to final consumers by small parcels, so that we can
+							directly collect real feedback from our clients to our suppliers.</p>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-4 bottom-grid multi-gd-text">
+			<a href="gallery.html"><img src="images/651536565895_.pic_hd.jpg" alt=" "/></a>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<!-- //banner-bottom -->
+<!-- services -->
+<!--<div class="main_ser">
+	<div class="container">
+		<div class="col-md-7 main_ser_one wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
+			<h3>Our Technology</h3>
+			<p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur 
+			aut odit aut fugit, sed quia consequuntur magni dolores eos
+			qui ratione voluptatem sequi nesciunt. Neque porro quisquam est. </p>
+			<div class="cont-grids">
+				<div class="col-sm-6 cont-grid-one">
+					<div class="cont-grid-left wel-grid">
+						<div class="btm-clr4">
+							<figure class="icon">
+								<img src="images/icon1.png" alt=" " />
+							</figure>
+						</div>
+					</div>
+					<div class="cont-grid-right">
+						<h4>Voluptatem</h4>
+						<p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur.</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="col-sm-6 cont-grid-one">
+					<div class="cont-grid-left wel-grid">
+						<div class="btm-clr4">
+							<figure class="icon">
+								<img src="images/icon2.png" alt=" " />
+							</figure>
+						</div>
+					</div>
+					<div class="cont-grid-right">
+						<h4>Voluptatem</h4>
+						<p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur.</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="col-sm-6 cont-grid-one yes_magr">
+					<div class="cont-grid-left wel-grid">
+						<div class="btm-clr4">
+							<figure class="icon">
+								<img src="images/icon3.png" alt=" " />
+							</figure>
+						</div>
+					</div>
+					<div class="cont-grid-right">
+						<h4>Voluptatem</h4>
+						<p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur.</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="col-sm-6 cont-grid-one yes_magr">
+					<div class="cont-grid-left wel-grid">
+						<div class="btm-clr4">
+							<figure class="icon">
+								<img src="images/icon1.png" alt=" " />
+							</figure>
+						</div>
+					</div>
+					<div class="cont-grid-right">
+						<h4>Voluptatem</h4>
+						<p> Nemo enim ipsam voluptatem quia voluptas sit aspernatur.</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="col-md-5 main_ser_two wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
+			<img class="img-responsive" src="images/p1.jpeg" alt=" "/>
+			<h4>Consequuntur Voluptatem</h4>
+				<div class="accordion">
+							<div class="accordion-section">
+								<a class="accordion-section-title" href="#accordion-1">Voluptatem Accusantium <i class="glyphicon glyphicon-chevron-down"></i><div class="clearfix"></div>
+								</a>
+								<div id="accordion-1" class="accordion-section-content">
+									<p>Mauris interdum fringilla augue vitae tincidunt. Curabitur vitae tortor id eros euismod ultrices.</p>
+								</div>
+							</div>
+
+							<div class="accordion-section">
+								<a class="accordion-section-title" href="#accordion-2">Interdum Fringilla<i class="glyphicon glyphicon-chevron-down"></i><div class="clearfix"></div>
+								</a>
+								<div id="accordion-2" class="accordion-section-content">
+									<p>Mauris interdum fringilla augue vitae tincidunt. Curabitur vitae tortor id eros euismod ultrices.</p>
+								</div>
+							</div>
+
+							<div class="accordion-section">
+								<a class="accordion-section-title" href="#accordion-3">Curabitur Vitae <i class="glyphicon glyphicon-chevron-down"></i><div class="clearfix"></div>
+								</a>
+								<div id="accordion-3" class="accordion-section-content">
+									<p>Mauris interdum fringilla augue vitae tincidunt. Curabitur vitae tortor id eros euismod ultrices.</p>
+								</div>
+							</div>
+							
+							
+				</div>
+				<script>
+							jQuery(document).ready(function() {
+								function close_accordion_section() {
+									jQuery('.accordion .accordion-section-title').removeClass('active');
+									jQuery('.accordion .accordion-section-content').slideUp(300).removeClass('open');
+								}
+
+								jQuery('.accordion-section-title').click(function(e) {
+									// Grab current anchor value
+									var currentAttrValue = jQuery(this).attr('href');
+
+									if(jQuery(e.target).is('.active')) {
+										close_accordion_section();
+									}else {
+										close_accordion_section();
+
+										// Add active class to section title
+										jQuery(this).addClass('active');
+										// Open up the hidden content panel
+										jQuery('.accordion ' + currentAttrValue).slideDown(300).addClass('open'); 
+									}
+
+									e.preventDefault();
+								});
+							});
+				</script>
+
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>-->
+<!-- //services -->
+<!-- treatments -->
+<div class="treatments">
+	<h3>What We Do</h3>
+	<p class="para1">From concept to marketing in China, MEE provides a whole-of-service solution.</p>
+	<div class="col-md-4 treat-grids treat-pad wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0s">
+		<h5>Our Technology Services</h5>
+		<ul>
+			<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">One-stop E-commerce Platform</a></li>
+			<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Customer Service Support</a></li>
+			<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Real-time Big Data Analysis</a></li>
+			<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Perfect Online Payment System</a></li>
+			<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Integrated logistics information</a></li>
+		</ul>
+	</div>
+	<div class="col-md-4 treat-grids grid wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.1s">	
+		<figure class="effect-apollo">
+			<img src="images/technology.jpg" alt=" "/>
+				<figcaption>
+					<p>Data analysis</p>
+				</figcaption>			
+		</figure>
+	</div>
+	<div class="col-md-4 treat-grids treat-pad wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.2s">
+		<h5>Smart Marketing Promotion</h5>
+			<ul>
+				<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Familiar with local market</a></li>
+				<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Provide overseas support</a></li>
+				<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Mass data network</a></li>
+				<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Market investigation and statistic</a></li>
+				<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Provide business reports</a></li>
+			</ul>
+	</div>
+	<div class="col-md-4 treat-grids grid wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">	
+		<figure class="effect-apollo">
+			<img src="images/Marketing.jpg" alt=" "/>
+				<figcaption>
+					<p>Marketing Specialist
+					</p>
+				</figcaption>			
+		</figure>
+	</div>
+	<div class="col-md-4 treat-grids treat-head treat_mar wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.4s">
+		<h4>Our Best Constructors</h4>
+		<p>Through digital process management,
+			effectively improve the efficiency of
+			distribution, reduce the error of goods,
+			a reasonable division of labor, and shorten
+			the order of goods to logistics.</p>
+		<p>Use intelligent logistics solutions to
+			effectively reduce inventory and increase warehouse storage.</p>
+	</div>
+	<div class="col-md-4 treat-grids grid treat_mar wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.5s">
+		<figure class="effect-apollo">
+			<img src="images/packing.jpg" alt=" "/>
+				<figcaption>
+					<p>Packaging and Dispatch</p>
+				</figcaption>			
+		</figure>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<!-- //treatments -->
+
+<!-- footer -->
+<div class="footer">
+	<div class="container">
+		<h2>Get In Touch</h2>
+		<p class="para">If you’ve got questions or ideas you would like to share, please Leave your mail address <br />
+			For anything more specific, please use the address to find us..</p>
+		<div class="col-md-6 footer-left">
+			<div class="col-sm-2 foo-left text-center">
+				<span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+			</div>
+			<div class="col-sm-10 foo-right">
+				<h4>Information</h4>
+				<p>Ask a question or submit a message , visit our <a href="contact.html">Contact Center</a> for more information.
+
+				</p>
+				<!--<ul class="fb_icons">
+					<li><a class="fb" href="#"></a></li>
+					<li><a class="twit" href="#"></a></li>
+					<li><a class="goog" href="#"></a></li>
+					<li><a class="pin" href="#"></a></li>
+					<li><a class="drib" href="#"></a></li>
+				</ul>-->
+
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="col-md-6 footer-right">
+			<div class="col-sm-2 foo-left text-center">
+				<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+			</div>
+			<div class="col-sm-10 foo-right">
+				<h4>Newsletter</h4>
+				<p>Use the form below to drop us an e-mail.</p>
+				<form action="#" method="post">
+					<input type="text" name="Your email" value="Your email" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Your email';}" required="">
+					<input type="submit" value="Subscribe">
+				</form>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+		<!--<p class="copy-right">Copyright &copy; 2016.Company name All rights reserved.<a target="_blank" href="http://www.dedembb.com/">织梦原创模板</a></p>-->
+	</div>
+</div>
+<!-- //footer -->
+<!-- smooth scrolling -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+		/*
+			var defaults = {
+			containerID: 'toTop', // fading element id
+			containerHoverID: 'toTopHover', // fading element hover id
+			scrollSpeed: 1200,
+			easingType: 'linear' 
+			};
+		*/								
+		$().UItoTop({ easingType: 'easeOutQuart' });
+		});
+	</script>
+	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<!-- //smooth scrolling -->
+<script type="text/javascript" src="js/bootstrap-3.1.1.min.js"></script>
+</body>
+</html>
